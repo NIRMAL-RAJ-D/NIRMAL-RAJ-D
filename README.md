@@ -85,7 +85,6 @@ web-exploitation  forensics  red-teaming  linux  python
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,25:0077b6,50:7b2cbf,75:e63900,100:ff9e00&height=60&section=header&text=%5B%20CTF%20%26%20LAB%20PROFILES%20%5D&fontSize=26&fontColor=ffffff&fontAlign=50&fontAlignY=50" width="100%" />
 
 <div align="center">
 
@@ -99,7 +98,7 @@ web-exploitation  forensics  red-teaming  linux  python
 <br/><br/>
 
 <a href="https://tryhackme.com/p/NirmalRaj">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/NirmalRaj.png" alt="TryHackMe Badge" />
+  
 </a>
 
 </div>
