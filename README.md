@@ -19,7 +19,7 @@ Nirmal Raj D - Cyber Security student & CTF player
 
 nirmal@blackCATS:~$ cat status.txt
 Year 2 | B.E. CSE (Cyber Security) | Coimbatore, India
-Team   : blackCATS (co-founder)
+Team   :  (co-founder)
 Next   : CVE Research
 
 nirmal@blackCATS:~$ ls skills/
@@ -29,7 +29,7 @@ web-exploitation  forensics  red-teaming  linux  python
 | | |
 |---|---|
 | 🎓 **Studying** | B.E. Computer Science (Cyber Security) at Sri Shakthi Institute of Engineering and Technology |
-| 🐈‍⬛ **Team** | Co-founder of **blackCATS**, listed on CTFtime |
+| 🐈‍⬛ **Team** | Co-founder of **blackCATS!**, listed on CTFtime |
 | 🚩 **Next up** | **CVE RESEARCH** |
 | 🥈 **Podium** | 2nd place at the OWASP SREC Chapter Event |
 | 🌱 **Learning** | Web exploitation, forensics and secure coding |
@@ -69,7 +69,7 @@ web-exploitation  forensics  red-teaming  linux  python
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,25:0077b6,50:7b2cbf,75:e63900,100:ff9e00&height=60&section=header&text=%5B%20BATTLE%20RECORD%20%5D&fontSize=26&fontColor=ffffff&fontAlign=50&fontAlignY=50" width="100%" />
 
-- 🐈‍⬛ Co-Founder of **blackCATS** CTF Team, listed on **CTFtime**
+- 🐈‍⬛ Co-Founder of **blackCATS!** CTF Team, listed on **CTFtime**
 - 🥈 **2nd Place**, OWASP SREC Chapter Event (completed without AI assistance)
 - 🚩 Qualified through the **inCTF Qualifiers**, earning a spot in the **inCTF 2026 Finals**
 - 🎯 Participated in numerous internal and open CTF competitions (web, crypto, Linux)
